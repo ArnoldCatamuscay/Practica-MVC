@@ -1,3 +1,3 @@
 <?php
-require('controlador/gestionProducto.php');
+    require('controlador/gestionProducto.php');
 ?>
